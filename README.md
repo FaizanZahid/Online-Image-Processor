@@ -7,17 +7,19 @@
 
 ### Because I find matlab boring!
 
-An online 2D to 3D image wrapper tool built using three.js.
+An online image processing tool built using Paintbrush.js.
 
-Allows renedring 3D views of 2D images
+Allows image editing inside your browser
 Supports:
 
-* Seamless Zooming
-* Hover to move the model
-* User can upload his/her own images
-* Auto Rotation toggle ON/OFF
-* jQuery mac style image viewer
+* Noise
+* Gaussian Blur
+* Zooming
+* Greyscale
+* Edge detection
+* Sepia
+* Mosaic
+* Color
 
-PHP, HTML5, CSS3, jQuery, Three.js
 
 
