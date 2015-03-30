@@ -6,17 +6,17 @@
 
 An online image processing tool built using jQuery library PaintBrush.js.
 
-- Allows image processing operations right in your browser
-- Supports filters including:
+Allows image processing operations right in your browser
+Supports filters including:
 
-Gaussian Blur,
-Edge detection,
-Zooming feature,
-    Noise,
-    Sepia filter,
-    Color,
-    Mosaic,
-    Emboss,
-    Greyscale
+* Gaussian Blur
+* Edge detection
+* Zooming feature
+* Noise
+* Sepia filter
+* Color
+* Mosaic
+* Emboss
+* Greyscale
 
 
