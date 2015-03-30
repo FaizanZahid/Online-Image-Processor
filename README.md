@@ -16,3 +16,5 @@ Zooming feature,
     Mosaic,
     Emboss,
     Greyscale
+
+[SEE DEMO HERE ](http://imagesimulator.webege.com/ "Title") 
