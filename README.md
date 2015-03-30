@@ -17,4 +17,4 @@ Zooming feature,
     Emboss,
     Greyscale
 
-[SEE DEMO HERE ](http://imagesimulator.webege.com/ "Title") 
+###[SEE DEMO HERE ](http://imagesimulator.webege.com/ "Title") 
